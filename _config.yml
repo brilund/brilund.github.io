@@ -1,4 +1,4 @@
 name: Brianna Lund, Research Associate
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
